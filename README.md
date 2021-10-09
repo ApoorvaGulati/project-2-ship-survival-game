@@ -1,1 +1,1 @@
-# project-2-ship-survival-game
+# Ship-Survival-game
